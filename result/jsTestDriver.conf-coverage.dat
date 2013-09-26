@@ -1,4 +1,4 @@
-SF:d:\work\jstestdriver-samples\src\sample.js
+SF:D:\work\jstestdriver-samples\src\sample.js
 DA:1,1
 DA:3,2
 DA:6,1
@@ -8,12 +8,14 @@ DA:12,1
 DA:13,1
 DA:15,1
 DA:16,1
-DA:17,1
-DA:19,1
+DA:20,1
+DA:21,2
+DA:22,2
+DA:24,1
 end_of_record
-SF:d:\work\jstestdriver-samples\test\sample_test.js
+SF:D:\work\jstestdriver-samples\test\sample_test.js
 DA:1,1
-DA:4,6
+DA:4,7
 DA:8,1
 DA:13,1
 DA:14,1
@@ -26,4 +28,7 @@ DA:32,1
 DA:33,1
 DA:35,1
 DA:36,1
+DA:41,1
+DA:43,1
+DA:47,1
 end_of_record

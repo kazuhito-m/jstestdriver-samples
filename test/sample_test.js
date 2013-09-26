@@ -36,4 +36,18 @@ TestCase('SampleTest', {
         assertEquals('SamplePlus' , actual.name);
     }
     
+    ,'test Loop test.' : function() {
+        // arrange
+        var sut = new PrototypeTwo();
+        // act
+        var actual = sut.sumText(1,2);
+//        var actual = '1 + 2 = 3';
+        // assertion
+//        assertEquals('1 + 2 = 3' , actual);
+        assertEquals('1 + 2 = 3' , actual);
+        
+        
+        
+    }
+    
 });
