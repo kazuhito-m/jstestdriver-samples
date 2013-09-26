@@ -1,0 +1,1 @@
+java -jar JsTestDriver-1.3.5.jar --config JsTestDriver.conf --tests all --testOutput result

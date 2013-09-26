@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Firefox_220_Windows.SampleTest" errors="0" failures="0" tests="6" time="0.0020">
+<testcase classname="Firefox_220_Windows.SampleTest" name="test should return greeting" time="0.0"/>
+<testcase classname="Firefox_220_Windows.SampleTest" name="test should check innerHtml of DOMElement" time="0.0010"/>
+<testcase classname="Firefox_220_Windows.SampleTest" name="test three." time="0.0"/>
+<testcase classname="Firefox_220_Windows.SampleTest" name="test String add last" time="0.0"/>
+<testcase classname="Firefox_220_Windows.SampleTest" name="test????{????????????????B" time="0.0010"/>
+<testcase classname="Firefox_220_Windows.SampleTest" name="test prototype sample." time="0.0"/>
+</testsuite>
